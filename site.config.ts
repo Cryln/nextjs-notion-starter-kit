@@ -11,14 +11,14 @@ export default siteConfig({
   // basic site info (required)
   name: 'Float Flow',
   domain: 'www.floatflow.com',
-  author: 'flawflew',
+  author: 'Cryln',
 
   // open graph metadata (optional)
   description: 'A Personal Blog Site',
 
   // social usernames (optional)
-  twitter: 'flawflew',
-  github: 'flawflew',
+  // twitter: 'flawflew',
+  github: 'Cryln',
   linkedin: 'floatflow',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
